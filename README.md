@@ -1,0 +1,59 @@
+<p align="center">
+  <a href="https://pivotek.mx"><img src="assets/hero.svg" width="100%" alt="Benjamín Esponda García. Corporate lawyer, energy and infrastructure, Mexico City. Law, compiled."></a>
+</p>
+
+<p align="center">
+  <a href="https://pivotek.mx"><b>pivotek.mx</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/benjamin-esponda-garc%C3%ADa-a743051b2">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:beg.empleos@gmail.com">beg.empleos@gmail.com</a> &nbsp;·&nbsp;
+  <a href="README.es.md">Español</a>
+</p>
+
+I'm a Mexican corporate lawyer (energy, hydrocarbons and mining, about eight years of practice) who builds the tools around the legal work. I write the analysis, and I also write the code that reads the Official Gazette, retrieves the right article, runs the numbers and checks the answer before it reaches a client.
+
+## Open source
+
+<p>
+  <a href="https://github.com/BEG-lag/mcp-dof"><img src="assets/cards/mcp-dof.svg" width="49%" alt="mcp-dof: MCP server for Mexico's Official Gazette"></a>
+  <a href="https://github.com/BEG-lag/leyes-mx"><img src="assets/cards/leyes-mx.svg" width="49%" alt="leyes-mx: Mexican federal statutes as versioned Markdown"></a>
+  <a href="https://github.com/BEG-lag/dof-diario"><img src="assets/cards/dof-diario.svg" width="49%" alt="dof-diario: daily archive of the Official Gazette"></a>
+  <a href="https://github.com/BEG-lag/finiquito-mx"><img src="assets/cards/finiquito-mx.svg" width="49%" alt="finiquito-mx: severance calculator under Mexico's Federal Labor Law"></a>
+  <a href="https://github.com/BEG-lag/portafolio-ia"><img src="assets/cards/portafolio-ia.svg" width="49%" alt="portafolio-ia: AI portfolio, live at pivotek.mx"></a>
+  <a href="https://github.com/BEG-lag/tema-clawds"><img src="assets/cards/tema-clawds.svg" width="49%" alt="tema-clawds: Claude Code theme with 64 Clawds"></a>
+</p>
+
+## Shipped, not public
+
+| | |
+|:--|:--|
+| **[Con Criterio](https://concriterio.mx)** | An AI toolkit for Mexican lawyers: a guide, 7 Claude Code plugins by practice area and 7 drafting skills, grounded on a curated corpus of statutes and verified court criteria. On sale since November 2026, with payments, automated delivery and 101 automated tests. |
+| **Energy-law RAG** | Retrieval over 374 Mexican energy-law instruments split into 11,112 chunks along the hierarchy of the statutes, with hybrid search and a regression test set. |
+| **SupplySense** | A data pipeline over more than 560,000 public procurement contracts that shows oil and gas suppliers where the money goes. |
+| **Four websites** | [concriterio.mx](https://concriterio.mx), [pivotek.mx](https://pivotek.mx), [casalegado.mx](https://casalegado.mx) and [carocomunicando.com](https://carocomunicando.com). |
+
+The full story, with diagrams and anonymized client work, is in the [portfolio](https://github.com/BEG-lag/portafolio-ia) and at [pivotek.mx](https://pivotek.mx).
+
+## How I work
+
+- **Every legal claim carries its source and cut-off date.** Anything unverified is labeled as an estimate, an assumption or a data gap.
+- **People stay in the loop** wherever there is a signature, money or legal judgment.
+- **Tests before trust.** Golden sets for retrieval, hand-checked examples for calculators, CI on every repository.
+
+## Stack
+
+<p>
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-11141b?style=flat-square&logo=claude&logoColor=cfff45">
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-11141b?style=flat-square&logo=modelcontextprotocol&logoColor=cfff45">
+  <img alt="Python" src="https://img.shields.io/badge/Python-11141b?style=flat-square&logo=python&logoColor=cfff45">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-11141b?style=flat-square&logo=typescript&logoColor=cfff45">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-11141b?style=flat-square&logo=nextdotjs&logoColor=cfff45">
+  <img alt="PostgreSQL and pgvector" src="https://img.shields.io/badge/Postgres_+_pgvector-11141b?style=flat-square&logo=postgresql&logoColor=cfff45">
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-11141b?style=flat-square&logo=n8n&logoColor=cfff45">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-11141b?style=flat-square&logo=githubactions&logoColor=cfff45">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-11141b?style=flat-square&logo=vercel&logoColor=cfff45">
+  <img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare_Workers-11141b?style=flat-square&logo=cloudflareworkers&logoColor=cfff45">
+  <img alt="Stripe" src="https://img.shields.io/badge/Stripe-11141b?style=flat-square&logo=stripe&logoColor=cfff45">
+  <img alt="Remotion" src="https://img.shields.io/badge/Remotion-11141b?style=flat-square&logo=remotion&logoColor=cfff45">
+</p>
+
+<sub>Law degree (Ibero), Master's in Business Law (Anáhuac), MBA (EAE Madrid). Spanish native, English professional. Nothing in these repositories is legal advice.</sub>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 250" role="img" aria-label="dof-diario: A public archive of the Official Gazette&#x27;s table of contents, refreshed by GitHub Actions every day, with a searchable site.">
+  <style>
+    .dot{animation:pulse 2.6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+    .sheen{animation:sheen 6s ease-in-out infinite}
+    @keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.35;transform:scale(.7)}}
+    @keyframes sheen{0%,70%{transform:translateX(-160px)}100%{transform:translateX(640px)}}
+    @media (prefers-reduced-motion:reduce){.dot,.sheen{animation:none}.sheen{opacity:0}}
+  </style>
+  <defs>
+    <clipPath id="c"><rect width="480" height="250" rx="18"/></clipPath>
+    <linearGradient id="s" x1="0" x2="1"><stop offset="0" stop-color="#ffb648" stop-opacity="0"/><stop offset=".5" stop-color="#ffb648" stop-opacity=".08"/><stop offset="1" stop-color="#ffb648" stop-opacity="0"/></linearGradient>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="480" height="250" fill="#11141b"/>
+    <rect width="480" height="3" fill="#ffb648"/>
+    <rect class="sheen" x="0" y="0" width="140" height="250" fill="url(#s)" transform="skewX(-12)"/>
+    <circle class="dot" cx="32" cy="40" r="4" fill="#ffb648"/>
+    <text x="44" y="44.5" font-family='"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace' font-size="12" letter-spacing="1.6" fill="#ffb648">LIVE DATASET</text>
+    <text x="452" y="45" text-anchor="end" font-family='"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace' font-size="16" fill="#969dab">&#8599;</text>
+    <text x="28" y="88" font-family='"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace' font-size="27" font-weight="700" fill="#eceee6">dof-diario</text>
+    <text x="28" y="124" font-family='Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif' font-size="14.5" fill="#b9bec8">A public archive of the Official Gazette&#x27;s table of</text><text x="28" y="146" font-family='Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif' font-size="14.5" fill="#b9bec8">contents, refreshed by GitHub Actions every day, with</text><text x="28" y="168" font-family='Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif' font-size="14.5" fill="#b9bec8">a searchable site.</text>
+    <g transform="translate(28.0 198)"><rect width="50.8" height="24" rx="12" fill="none" stroke="#ffb648" stroke-opacity=".45"/><text x="25.4" y="16" text-anchor="middle" font-family='"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace' font-size="11.5" fill="#eceee6">Data</text></g><g transform="translate(86.8 198)"><rect width="72.4" height="24" rx="12" fill="none" stroke="#ffb648" stroke-opacity=".45"/><text x="36.2" y="16" text-anchor="middle" font-family='"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace' font-size="11.5" fill="#eceee6">Actions</text></g><g transform="translate(167.2 198)"><rect width="58.0" height="24" rx="12" fill="none" stroke="#ffb648" stroke-opacity=".45"/><text x="29.0" y="16" text-anchor="middle" font-family='"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace' font-size="11.5" fill="#eceee6">Pages</text></g>
+  </g>
+  <rect x=".5" y=".5" width="479" height="249" rx="18" fill="none" stroke="#eceee6" stroke-opacity=".12"/>
+</svg>
