@@ -40,12 +40,14 @@ Small, private, useful every day.
 
 <p>
   <a href="https://github.com/BEG-lag/hoy-circulo"><img src="assets/cards/hoy-circulo.svg" width="49%" alt="hoy-circulo: can I drive today in Mexico City"></a>
+  <a href="https://github.com/BEG-lag/aumento-renta"><img src="assets/cards/aumento-renta.svg" width="49%" alt="aumento-renta: how much can my rent go up in Mexico"></a>
   <a href="https://github.com/BEG-lag/facturas-cfdi"><img src="assets/cards/facturas-cfdi.svg" width="49%" alt="facturas-cfdi: invoice organizer that runs in your browser"></a>
   <a href="https://github.com/BEG-lag/segundo-cerebro"><img src="assets/cards/segundo-cerebro.svg" width="49%" alt="segundo-cerebro: second brain kit for Obsidian and Claude Code"></a>
-  <a href="https://github.com/BEG-lag/tema-clawds"><img src="assets/cards/tema-clawds.svg" width="49%" alt="tema-clawds: Claude Code theme with 64 Clawds"></a>
 </p>
 
-**Try it:** [¿Hoy circulo?](https://beg-lag.github.io/hoy-circulo/) · [facturas-cfdi](https://beg-lag.github.io/facturas-cfdi/)
+**Try it:** [¿Hoy circulo?](https://beg-lag.github.io/hoy-circulo/) · [rent increase calculator](https://beg-lag.github.io/aumento-renta/) · [facturas-cfdi](https://beg-lag.github.io/facturas-cfdi/)
+
+Also: [tema-clawds](https://github.com/BEG-lag/tema-clawds), a light theme for the Claude Code app with 64 tiny Clawds playing in 20 SVG scenes.
 
 ## Shipped, not public
 

@@ -78,6 +78,19 @@
     ]
   },
   {
+    "slug": "aumento-renta",
+    "url": "https://github.com/BEG-lag/aumento-renta",
+    "kicker": "Everyday app",
+    "accent": "#ff5d47",
+    "title": "aumento-renta",
+    "desc": "How much can your rent go up? Updates it with Mexico's INPC or UDIS, cites every official value and checks Mexico City's legal cap.",
+    "tags": [
+      "TypeScript",
+      "PWA",
+      "Actions"
+    ]
+  },
+  {
     "slug": "segundo-cerebro",
     "url": "https://github.com/BEG-lag/segundo-cerebro",
     "kicker": "Second brain",
