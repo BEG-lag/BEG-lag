@@ -11,16 +11,31 @@
 
 I'm a Mexican corporate lawyer (energy, hydrocarbons and mining, about eight years of practice) who builds the tools around the legal work. I write the analysis, and I also write the code that reads the Official Gazette, retrieves the right article, runs the numbers and checks the answer before it reaches a client.
 
-## Open source
+## Law, compiled
+
+Open-source tools over Mexican law and public data.
 
 <p>
   <a href="https://github.com/BEG-lag/mcp-dof"><img src="assets/cards/mcp-dof.svg" width="49%" alt="mcp-dof: MCP server for Mexico's Official Gazette"></a>
   <a href="https://github.com/BEG-lag/leyes-mx"><img src="assets/cards/leyes-mx.svg" width="49%" alt="leyes-mx: Mexican federal statutes as versioned Markdown"></a>
   <a href="https://github.com/BEG-lag/dof-diario"><img src="assets/cards/dof-diario.svg" width="49%" alt="dof-diario: daily archive of the Official Gazette"></a>
   <a href="https://github.com/BEG-lag/finiquito-mx"><img src="assets/cards/finiquito-mx.svg" width="49%" alt="finiquito-mx: severance calculator under Mexico's Federal Labor Law"></a>
-  <a href="https://github.com/BEG-lag/portafolio-ia"><img src="assets/cards/portafolio-ia.svg" width="49%" alt="portafolio-ia: AI portfolio, live at pivotek.mx"></a>
+</p>
+
+**Try it:** [DOF archive search](https://beg-lag.github.io/dof-diario/) · [severance calculator](https://beg-lag.github.io/finiquito-mx/) · [federal laws](https://beg-lag.github.io/leyes-mx/)
+
+## Everyday tools
+
+Small, private, useful every day.
+
+<p>
+  <a href="https://github.com/BEG-lag/hoy-circulo"><img src="assets/cards/hoy-circulo.svg" width="49%" alt="hoy-circulo: can I drive today in Mexico City"></a>
+  <a href="https://github.com/BEG-lag/facturas-cfdi"><img src="assets/cards/facturas-cfdi.svg" width="49%" alt="facturas-cfdi: invoice organizer that runs in your browser"></a>
+  <a href="https://github.com/BEG-lag/segundo-cerebro"><img src="assets/cards/segundo-cerebro.svg" width="49%" alt="segundo-cerebro: second brain kit for Obsidian and Claude Code"></a>
   <a href="https://github.com/BEG-lag/tema-clawds"><img src="assets/cards/tema-clawds.svg" width="49%" alt="tema-clawds: Claude Code theme with 64 Clawds"></a>
 </p>
+
+**Try it:** [¿Hoy circulo?](https://beg-lag.github.io/hoy-circulo/) · [facturas-cfdi](https://beg-lag.github.io/facturas-cfdi/)
 
 ## Shipped, not public
 

@@ -52,6 +52,58 @@
     ]
   },
   {
+    "slug": "hoy-circulo",
+    "url": "https://github.com/BEG-lag/hoy-circulo",
+    "kicker": "Everyday app",
+    "accent": "#7fd8ff",
+    "title": "hoy-circulo",
+    "desc": "Can I drive today? Mexico City's no-drive rules, emissions check windows and live smog alerts, in an offline app with a calendar export.",
+    "tags": [
+      "TypeScript",
+      "PWA",
+      "Actions"
+    ]
+  },
+  {
+    "slug": "facturas-cfdi",
+    "url": "https://github.com/BEG-lag/facturas-cfdi",
+    "kicker": "Private by design",
+    "accent": "#cfff45",
+    "title": "facturas-cfdi",
+    "desc": "Drop your CFDI invoices and see your spending and possible personal tax deductions, computed in your browser. Nothing is uploaded.",
+    "tags": [
+      "TypeScript",
+      "PWA",
+      "Offline"
+    ]
+  },
+  {
+    "slug": "segundo-cerebro",
+    "url": "https://github.com/BEG-lag/segundo-cerebro",
+    "kicker": "Second brain",
+    "accent": "#ffb648",
+    "title": "segundo-cerebro",
+    "desc": "A ready-to-install second brain for Claude Code: an Obsidian vault with dashboards, a daily log and a weekly review that Claude keeps current.",
+    "tags": [
+      "Obsidian",
+      "Claude Code",
+      "Bash"
+    ]
+  },
+  {
+    "slug": "tema-clawds",
+    "url": "https://github.com/BEG-lag/tema-clawds",
+    "kicker": "Claude Code mod",
+    "accent": "#ff5d47",
+    "title": "tema-clawds",
+    "desc": "A light theme for the Claude Code app with 64 tiny Clawds playing in 20 scenes, generated as SVG from a script.",
+    "tags": [
+      "TypeScript",
+      "SVG",
+      "Plugin"
+    ]
+  },
+  {
     "slug": "portafolio-ia",
     "url": "https://github.com/BEG-lag/portafolio-ia",
     "kicker": "Portfolio",
@@ -62,19 +114,6 @@
       "HTML",
       "GSAP",
       "Vercel"
-    ]
-  },
-  {
-    "slug": "tema-clawds",
-    "url": "https://github.com/BEG-lag/tema-clawds",
-    "kicker": "Claude Code mod",
-    "accent": "#ffb648",
-    "title": "tema-clawds",
-    "desc": "A light theme for the Claude Code app with 64 tiny Clawds playing in 20 scenes, generated as SVG from a script.",
-    "tags": [
-      "TypeScript",
-      "SVG",
-      "Plugin"
     ]
   }
 ]

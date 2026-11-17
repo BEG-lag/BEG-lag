@@ -11,16 +11,31 @@
 
 Soy abogado corporativo mexicano (energía, hidrocarburos y minería, unos ocho años de práctica) y construyo las herramientas alrededor del trabajo legal. Escribo el análisis y también el código que lee el Diario Oficial, encuentra el artículo correcto, hace las cuentas y revisa la respuesta antes de que llegue al cliente.
 
-## Código abierto
+## Derecho, compilado
+
+Herramientas abiertas sobre derecho mexicano y datos públicos.
 
 <p>
   <a href="https://github.com/BEG-lag/mcp-dof"><img src="assets/cards/mcp-dof.svg" width="49%" alt="mcp-dof: servidor MCP del Diario Oficial de la Federación"></a>
   <a href="https://github.com/BEG-lag/leyes-mx"><img src="assets/cards/leyes-mx.svg" width="49%" alt="leyes-mx: leyes federales en Markdown versionado"></a>
   <a href="https://github.com/BEG-lag/dof-diario"><img src="assets/cards/dof-diario.svg" width="49%" alt="dof-diario: archivo diario del Diario Oficial"></a>
   <a href="https://github.com/BEG-lag/finiquito-mx"><img src="assets/cards/finiquito-mx.svg" width="49%" alt="finiquito-mx: calculadora de finiquito conforme a la Ley Federal del Trabajo"></a>
-  <a href="https://github.com/BEG-lag/portafolio-ia"><img src="assets/cards/portafolio-ia.svg" width="49%" alt="portafolio-ia: portafolio de IA en pivotek.mx"></a>
+</p>
+
+**Pruébalas:** [buscador del DOF](https://beg-lag.github.io/dof-diario/) · [calculadora de finiquito](https://beg-lag.github.io/finiquito-mx/) · [leyes federales](https://beg-lag.github.io/leyes-mx/)
+
+## Para el día a día
+
+Herramientas chicas, privadas y útiles todos los días.
+
+<p>
+  <a href="https://github.com/BEG-lag/hoy-circulo"><img src="assets/cards/hoy-circulo.svg" width="49%" alt="hoy-circulo: ¿hoy circulo en la Ciudad de México?"></a>
+  <a href="https://github.com/BEG-lag/facturas-cfdi"><img src="assets/cards/facturas-cfdi.svg" width="49%" alt="facturas-cfdi: organizador de facturas que corre en tu navegador"></a>
+  <a href="https://github.com/BEG-lag/segundo-cerebro"><img src="assets/cards/segundo-cerebro.svg" width="49%" alt="segundo-cerebro: kit de segundo cerebro para Obsidian y Claude Code"></a>
   <a href="https://github.com/BEG-lag/tema-clawds"><img src="assets/cards/tema-clawds.svg" width="49%" alt="tema-clawds: tema de Claude Code con 64 Clawds"></a>
 </p>
+
+**Pruébalas:** [¿Hoy circulo?](https://beg-lag.github.io/hoy-circulo/) · [facturas-cfdi](https://beg-lag.github.io/facturas-cfdi/)
 
 ## En producción, sin código público
 
