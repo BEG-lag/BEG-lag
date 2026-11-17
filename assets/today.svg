@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 220" role="img" aria-labelledby="t d">
+  <title id="t">Hoy en el DOF: martes 17 de noviembre de 2026</title>
+  <desc id="d">Hoy en el DOF, martes 17 de noviembre de 2026. Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 120/2026, así como el Voto Concurrente de la señora Ministra Lenia Batres Guadarrama. 204 notas, 186 de ellas avisos. FIX 18.5525. UDI 8.913896. Fuente: DOF / SIDOF.</desc>
+  <style>
+    .dot{animation:pulse 2.6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+    .ring{animation:ring 2.6s ease-out infinite;transform-box:fill-box;transform-origin:center}
+    .sheen{animation:sheen 7s ease-in-out infinite}
+    .rise{animation:rise .9s cubic-bezier(.2,.7,.2,1) both}
+    .r1{animation-delay:.12s}
+    @keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.35;transform:scale(.7)}}
+    @keyframes ring{0%{opacity:.55;transform:scale(1)}100%{opacity:0;transform:scale(3.2)}}
+    @keyframes sheen{0%,70%{transform:translateX(-200px)}100%{transform:translateX(1160px)}}
+    @keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+    @media (prefers-reduced-motion:reduce){.dot,.ring,.sheen,.rise{animation:none}.ring,.sheen{opacity:0}}
+  </style>
+  <defs>
+    <clipPath id="c"><rect width="960" height="220" rx="18"/></clipPath>
+    <linearGradient id="s" x1="0" x2="1"><stop offset="0" stop-color="#cfff45" stop-opacity="0"/><stop offset=".5" stop-color="#cfff45" stop-opacity=".07"/><stop offset="1" stop-color="#cfff45" stop-opacity="0"/></linearGradient>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="960" height="220" fill="#11141b"/>
+    <rect width="960" height="3" fill="#cfff45"/>
+    <rect class="sheen" x="0" y="0" width="180" height="220" fill="url(#s)" transform="skewX(-12)"/>
+    <circle class="ring" cx="36" cy="38" r="4" fill="none" stroke="#cfff45"/>
+    <circle class="dot" cx="36" cy="38" r="4" fill="#cfff45"/>
+    <text x="48" y="42.5" font-family='"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace' font-size="12" letter-spacing="1.6" fill="#cfff45">HOY EN EL DOF</text>
+    <text x="928" y="44" text-anchor="end" font-family='"Cormorant Garamond","Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif' font-style="italic" font-size="22" fill="#eceee6"><tspan fill="#cfff45">§ </tspan>martes 17 de noviembre de 2026</text>
+    <text x="32" y="74" font-family='"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace' font-size="12" letter-spacing=".4" fill="#969dab">PODER JUDICIAL · SUPREMA CORTE DE JUSTICIA DE LA NACION</text>
+    <text class="rise r0" x="32" y="106" font-family='Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif' font-size="19" font-weight="600" fill="#eceee6">Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la</text><text class="rise r1" x="32" y="133" font-family='Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif' font-size="19" font-weight="600" fill="#eceee6">Controversia Constitucional 120/2026, así como el Voto Concurrente de la señora Ministra…</text>
+    <rect x="32" y="152" width="896" height="1" fill="#eceee6" fill-opacity=".08"/>
+    <text x="32" y="178" font-family='"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace' font-size="10.5" letter-spacing="1.2" fill="#969dab">NOTAS</text><text x="32" y="203" font-family='"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace' font-size="21" font-weight="700" fill="#cfff45">204<tspan font-size="12" font-weight="400" fill="#969dab">  186 avisos</tspan></text><text x="262" y="178" font-family='"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace' font-size="10.5" letter-spacing="1.2" fill="#969dab">FIX USD · 17/11</text><text x="262" y="203" font-family='"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace' font-size="21" font-weight="700" fill="#ffb648">18.5525</text><text x="442" y="178" font-family='"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace' font-size="10.5" letter-spacing="1.2" fill="#969dab">UDI · 17/11</text><text x="442" y="203" font-family='"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace' font-size="21" font-weight="700" fill="#7fd8ff">8.913896</text>
+    <text x="928" y="178" text-anchor="end" font-family='"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace' font-size="10.5" letter-spacing="1.2" fill="#969dab">EDICIÓN MATUTINA</text>
+    <text x="928" y="202" text-anchor="end" font-family='"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace' font-size="12" fill="#969dab">fuente: DOF / SIDOF <tspan fill="#cfff45">&#8599;</tspan></text>
+  </g>
+  <rect x=".5" y=".5" width="959" height="219" rx="18" fill="none" stroke="#eceee6" stroke-opacity=".12"/>
+</svg>

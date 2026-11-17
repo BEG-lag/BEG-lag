@@ -11,6 +11,16 @@
 
 I'm a Mexican corporate lawyer (energy, hydrocarbons and mining, about eight years of practice) who builds the tools around the legal work. I write the analysis, and I also write the code that reads the Official Gazette, retrieves the right article, runs the numbers and checks the answer before it reaches a client.
 
+### Today in the Official Gazette
+
+<!-- today:start -->
+<p>
+  <a href="https://dof.gob.mx/nota_detalle.php?codigo=5803873&amp;fecha=17/11/2026"><img src="assets/today.svg" width="100%" alt="Mexico&#x27;s Official Gazette, Tuesday, November 17, 2026: Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 120/2026, así como el Voto Concurrente de la señora Ministra Lenia Batres Guadarrama. FIX 18.5525, UDI 8.913896."></a>
+</p>
+
+<sub>DOF, Tuesday, November 17, 2026: <a href="https://dof.gob.mx/nota_detalle.php?codigo=5803873&amp;fecha=17/11/2026">Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 120/2026, así como…</a> · 204 notes · FIX 18.5525 · UDI 8.913896 · <a href="https://beg-lag.github.io/dof-diario/">search the archive</a> · <a href="https://github.com/BEG-lag/BEG-lag/blob/main/.github/workflows/today.yml">refreshed every morning</a></sub>
+<!-- today:end -->
+
 ## Law, compiled
 
 Open-source tools over Mexican law and public data.

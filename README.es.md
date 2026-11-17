@@ -11,6 +11,16 @@
 
 Soy abogado corporativo mexicano (energía, hidrocarburos y minería, unos ocho años de práctica) y construyo las herramientas alrededor del trabajo legal. Escribo el análisis y también el código que lee el Diario Oficial, encuentra el artículo correcto, hace las cuentas y revisa la respuesta antes de que llegue al cliente.
 
+### Hoy en el Diario Oficial
+
+<!-- today:start -->
+<p>
+  <a href="https://dof.gob.mx/nota_detalle.php?codigo=5803873&amp;fecha=17/11/2026"><img src="assets/today.svg" width="100%" alt="DOF del martes 17 de noviembre de 2026: Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 120/2026, así como el Voto Concurrente de la señora Ministra Lenia Batres Guadarrama. FIX 18.5525, UDI 8.913896."></a>
+</p>
+
+<sub>DOF del martes 17 de noviembre de 2026: <a href="https://dof.gob.mx/nota_detalle.php?codigo=5803873&amp;fecha=17/11/2026">Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 120/2026, así como…</a> · 204 notas · FIX 18.5525 · UDI 8.913896 · <a href="https://beg-lag.github.io/dof-diario/">busca en el archivo</a> · <a href="https://github.com/BEG-lag/BEG-lag/blob/main/.github/workflows/today.yml">se actualiza cada mañana</a></sub>
+<!-- today:end -->
+
 ## Derecho, compilado
 
 Herramientas abiertas sobre derecho mexicano y datos públicos.
