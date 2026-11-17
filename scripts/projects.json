@@ -5,8 +5,12 @@
     "kicker": "MCP server",
     "accent": "#cfff45",
     "title": "mcp-dof",
-    "desc": "Lets Claude read Mexico's Official Gazette (DOF): daily editions, full text of every decree, search and daily indicators, straight from the official API.",
-    "tags": ["Python", "FastMCP", "uv"]
+    "desc": "Lets Claude read Mexico's Official Gazette (DOF): any day's edition, the full text of every decree, title search and the daily FIX, UDIS and TIIE.",
+    "tags": [
+      "Python",
+      "FastMCP",
+      "uv"
+    ]
   },
   {
     "slug": "leyes-mx",
@@ -15,7 +19,11 @@
     "accent": "#7fd8ff",
     "title": "leyes-mx",
     "desc": "Mexican federal statutes as versioned Markdown. Every reform is a commit, so you can git log, blame and diff the law.",
-    "tags": ["Python", "Git", "Actions"]
+    "tags": [
+      "Python",
+      "Git",
+      "Actions"
+    ]
   },
   {
     "slug": "dof-diario",
@@ -23,8 +31,12 @@
     "kicker": "Live dataset",
     "accent": "#ffb648",
     "title": "dof-diario",
-    "desc": "A public archive of the Official Gazette's table of contents, refreshed by GitHub Actions every day, with a searchable site.",
-    "tags": ["Data", "Actions", "Pages"]
+    "desc": "The Official Gazette's table of contents since January 2025 (43,994 notes), refreshed twice a day by GitHub Actions, with a searchable site.",
+    "tags": [
+      "Data",
+      "Actions",
+      "Pages"
+    ]
   },
   {
     "slug": "finiquito-mx",
@@ -33,7 +45,11 @@
     "accent": "#ff5d47",
     "title": "finiquito-mx",
     "desc": "Severance under Mexico's Federal Labor Law, computed line by line, with the article behind every peso. Library plus web app.",
-    "tags": ["TypeScript", "Vitest", "Vite"]
+    "tags": [
+      "TypeScript",
+      "Vitest",
+      "Vite"
+    ]
   },
   {
     "slug": "portafolio-ia",
@@ -42,7 +58,11 @@
     "accent": "#cfff45",
     "title": "portafolio-ia",
     "desc": "What I have built with AI in 2026: legal RAG, n8n automations, data pipelines, a product on sale, websites and video. Live at pivotek.mx.",
-    "tags": ["HTML", "GSAP", "Vercel"]
+    "tags": [
+      "HTML",
+      "GSAP",
+      "Vercel"
+    ]
   },
   {
     "slug": "tema-clawds",
@@ -51,6 +71,10 @@
     "accent": "#ffb648",
     "title": "tema-clawds",
     "desc": "A light theme for the Claude Code app with 64 tiny Clawds playing in 20 scenes, generated as SVG from a script.",
-    "tags": ["TypeScript", "SVG", "Plugin"]
+    "tags": [
+      "TypeScript",
+      "SVG",
+      "Plugin"
+    ]
   }
 ]
