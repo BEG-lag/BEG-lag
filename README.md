@@ -23,20 +23,29 @@ I'm a Mexican corporate lawyer (energy, hydrocarbons and mining, about eight yea
 
 ## Law, compiled
 
-Open-source tools over Mexican law and public data.
+Open-source tools that read, apply and audit Mexican law.
 
 <p>
   <a href="https://github.com/BEG-lag/reforma-al-dia"><img src="assets/cards/reforma-al-dia.svg" width="49%" alt="reforma-al-dia: AI agent that applies DOF reforms the same day"></a>
-  <a href="https://github.com/BEG-lag/constitucion-viva"><img src="assets/cards/constitucion-viva.svg" width="49%" alt="constitucion-viva: interactive history of Mexico's Constitution"></a>
   <a href="https://github.com/BEG-lag/leyes-mx"><img src="assets/cards/leyes-mx.svg" width="49%" alt="leyes-mx: Mexican federal statutes as versioned Markdown"></a>
   <a href="https://github.com/BEG-lag/mcp-leyes"><img src="assets/cards/mcp-leyes.svg" width="49%" alt="mcp-leyes: point-in-time Mexican law for Claude"></a>
   <a href="https://github.com/BEG-lag/mcp-dof"><img src="assets/cards/mcp-dof.svg" width="49%" alt="mcp-dof: MCP server for Mexico's Official Gazette"></a>
-  <a href="https://github.com/BEG-lag/dof-diario"><img src="assets/cards/dof-diario.svg" width="49%" alt="dof-diario: daily archive of the Official Gazette"></a>
-  <a href="https://github.com/BEG-lag/finiquito-mx"><img src="assets/cards/finiquito-mx.svg" width="49%" alt="finiquito-mx: severance calculator under Mexico's Federal Labor Law"></a>
-  <a href="https://github.com/BEG-lag/radar-energia"><img src="assets/cards/radar-energia.svg" width="49%" alt="radar-energia: daily radar of Mexico's energy sector"></a>
 </p>
 
-**Try it:** [Constitution time machine](https://beg-lag.github.io/constitucion-viva/) · [AI reform scoreboard](https://beg-lag.github.io/reforma-al-dia/) · [energy radar](https://beg-lag.github.io/radar-energia/) · [DOF archive search](https://beg-lag.github.io/dof-diario/) · [severance calculator](https://beg-lag.github.io/finiquito-mx/) · [federal laws](https://beg-lag.github.io/leyes-mx/)
+**Try it:** [AI reform scoreboard](https://beg-lag.github.io/reforma-al-dia/) · [federal laws](https://beg-lag.github.io/leyes-mx/)
+
+## Open data
+
+Public records turned into living datasets, APIs and visual stories.
+
+<p>
+  <a href="https://github.com/BEG-lag/constitucion-viva"><img src="assets/cards/constitucion-viva.svg" width="49%" alt="constitucion-viva: interactive history of Mexico's Constitution"></a>
+  <a href="https://github.com/BEG-lag/radar-energia"><img src="assets/cards/radar-energia.svg" width="49%" alt="radar-energia: daily radar of Mexico's energy sector"></a>
+  <a href="https://github.com/BEG-lag/indicadores-mx"><img src="assets/cards/indicadores-mx.svg" width="49%" alt="indicadores-mx: Mexico's official indicators as a free static API"></a>
+  <a href="https://github.com/BEG-lag/dof-diario"><img src="assets/cards/dof-diario.svg" width="49%" alt="dof-diario: daily archive of the Official Gazette"></a>
+</p>
+
+**Try it:** [Constitution time machine](https://beg-lag.github.io/constitucion-viva/) · [indicators API](https://beg-lag.github.io/indicadores-mx/) · [energy radar](https://beg-lag.github.io/radar-energia/) · [DOF archive search](https://beg-lag.github.io/dof-diario/)
 
 ## Everyday tools
 
@@ -46,14 +55,21 @@ Small, private, useful every day.
   <a href="https://github.com/BEG-lag/hoy-circulo"><img src="assets/cards/hoy-circulo.svg" width="49%" alt="hoy-circulo: can I drive today in Mexico City"></a>
   <a href="https://github.com/BEG-lag/aumento-renta"><img src="assets/cards/aumento-renta.svg" width="49%" alt="aumento-renta: how much can my rent go up in Mexico"></a>
   <a href="https://github.com/BEG-lag/pension-imss"><img src="assets/cards/pension-imss.svg" width="49%" alt="pension-imss: IMSS pension estimator"></a>
+  <a href="https://github.com/BEG-lag/finiquito-mx"><img src="assets/cards/finiquito-mx.svg" width="49%" alt="finiquito-mx: severance calculator under Mexico's Federal Labor Law"></a>
   <a href="https://github.com/BEG-lag/facturas-cfdi"><img src="assets/cards/facturas-cfdi.svg" width="49%" alt="facturas-cfdi: invoice organizer that runs in your browser"></a>
   <a href="https://github.com/BEG-lag/mis-laboratorios"><img src="assets/cards/mis-laboratorios.svg" width="49%" alt="mis-laboratorios: private lab results tracker"></a>
-  <a href="https://github.com/BEG-lag/segundo-cerebro"><img src="assets/cards/segundo-cerebro.svg" width="49%" alt="segundo-cerebro: second brain kit for Obsidian and Claude Code"></a>
 </p>
 
-**Try it:** [¿Hoy circulo?](https://beg-lag.github.io/hoy-circulo/) · [rent increase calculator](https://beg-lag.github.io/aumento-renta/) · [pension estimator](https://beg-lag.github.io/pension-imss/) · [facturas-cfdi](https://beg-lag.github.io/facturas-cfdi/) · [mis-laboratorios](https://beg-lag.github.io/mis-laboratorios/)
+**Try it:** [¿Hoy circulo?](https://beg-lag.github.io/hoy-circulo/) · [rent increase](https://beg-lag.github.io/aumento-renta/) · [pension](https://beg-lag.github.io/pension-imss/) · [severance](https://beg-lag.github.io/finiquito-mx/) · [facturas-cfdi](https://beg-lag.github.io/facturas-cfdi/) · [mis-laboratorios](https://beg-lag.github.io/mis-laboratorios/)
 
-Also: [tema-clawds](https://github.com/BEG-lag/tema-clawds), a light theme for the Claude Code app with 64 tiny Clawds playing in 20 SVG scenes.
+## For Claude Code
+
+How I work, packaged for anyone.
+
+<p>
+  <a href="https://github.com/BEG-lag/segundo-cerebro"><img src="assets/cards/segundo-cerebro.svg" width="49%" alt="segundo-cerebro: second brain kit for Obsidian and Claude Code"></a>
+  <a href="https://github.com/BEG-lag/tema-clawds"><img src="assets/cards/tema-clawds.svg" width="49%" alt="tema-clawds: Claude Code theme with 64 Clawds"></a>
+</p>
 
 ## Shipped, not public
 

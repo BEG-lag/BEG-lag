@@ -13,19 +13,6 @@
     ]
   },
   {
-    "slug": "constitucion-viva",
-    "url": "https://github.com/BEG-lag/constitucion-viva",
-    "kicker": "Data story",
-    "accent": "#ff5d47",
-    "title": "constitucion-viva",
-    "desc": "Mexico's 1917 Constitution, alive: 285 reform decrees article by article, word-level diffs and the citation web of 36 laws.",
-    "tags": [
-      "D3",
-      "TypeScript",
-      "Open data"
-    ]
-  },
-  {
     "slug": "leyes-mx",
     "url": "https://github.com/BEG-lag/leyes-mx",
     "kicker": "Law as code",
@@ -65,29 +52,16 @@
     ]
   },
   {
-    "slug": "dof-diario",
-    "url": "https://github.com/BEG-lag/dof-diario",
-    "kicker": "Live dataset",
-    "accent": "#ffb648",
-    "title": "dof-diario",
-    "desc": "The Official Gazette's table of contents since January 2025 (43,994 notes), refreshed twice a day by GitHub Actions, with a searchable site.",
-    "tags": [
-      "Data",
-      "Actions",
-      "Pages"
-    ]
-  },
-  {
-    "slug": "finiquito-mx",
-    "url": "https://github.com/BEG-lag/finiquito-mx",
-    "kicker": "Legal calculator",
+    "slug": "constitucion-viva",
+    "url": "https://github.com/BEG-lag/constitucion-viva",
+    "kicker": "Data story",
     "accent": "#ff5d47",
-    "title": "finiquito-mx",
-    "desc": "Severance under Mexico's Federal Labor Law, computed line by line, with the article behind every peso. Library plus web app.",
+    "title": "constitucion-viva",
+    "desc": "Mexico's 1917 Constitution, alive: 285 reform decrees article by article, word-level diffs and the citation web of 36 laws.",
     "tags": [
+      "D3",
       "TypeScript",
-      "Vitest",
-      "Vite"
+      "Open data"
     ]
   },
   {
@@ -101,6 +75,32 @@
       "Python",
       "Actions",
       "RSS"
+    ]
+  },
+  {
+    "slug": "indicadores-mx",
+    "url": "https://github.com/BEG-lag/indicadores-mx",
+    "kicker": "Free static API",
+    "accent": "#7fd8ff",
+    "title": "indicadores-mx",
+    "desc": "Mexico's official indicators (FIX, UDIS, TIIE, INPC, minimum wage, UMA): 37,372 values, each linked to its DOF note, as JSON and CSV.",
+    "tags": [
+      "Python",
+      "JSON API",
+      "Actions"
+    ]
+  },
+  {
+    "slug": "dof-diario",
+    "url": "https://github.com/BEG-lag/dof-diario",
+    "kicker": "Live dataset",
+    "accent": "#ffb648",
+    "title": "dof-diario",
+    "desc": "The Official Gazette's table of contents since January 2025 (43,994 notes), refreshed twice a day by GitHub Actions, with a searchable site.",
+    "tags": [
+      "Data",
+      "Actions",
+      "Pages"
     ]
   },
   {
@@ -140,6 +140,19 @@
       "TypeScript",
       "Vitest",
       "PWA"
+    ]
+  },
+  {
+    "slug": "finiquito-mx",
+    "url": "https://github.com/BEG-lag/finiquito-mx",
+    "kicker": "Legal calculator",
+    "accent": "#ff5d47",
+    "title": "finiquito-mx",
+    "desc": "Severance under Mexico's Federal Labor Law, computed line by line, with the article behind every peso. Library plus web app.",
+    "tags": [
+      "TypeScript",
+      "Vitest",
+      "Vite"
     ]
   },
   {
