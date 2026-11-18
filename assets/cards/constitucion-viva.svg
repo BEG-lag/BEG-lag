@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 250" role="img" aria-label="constitucion-viva: Mexico&#x27;s 1917 Constitution, alive: 285 reform decrees article by article, word-level diffs and the citation web of 36 laws.">
+  <style>
+    .dot{animation:pulse 2.6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+    .sheen{animation:sheen 6s ease-in-out infinite}
+    @keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.35;transform:scale(.7)}}
+    @keyframes sheen{0%,70%{transform:translateX(-160px)}100%{transform:translateX(640px)}}
+    @media (prefers-reduced-motion:reduce){.dot,.sheen{animation:none}.sheen{opacity:0}}
+  </style>
+  <defs>
+    <clipPath id="c"><rect width="480" height="250" rx="18"/></clipPath>
+    <linearGradient id="s" x1="0" x2="1"><stop offset="0" stop-color="#ff5d47" stop-opacity="0"/><stop offset=".5" stop-color="#ff5d47" stop-opacity=".08"/><stop offset="1" stop-color="#ff5d47" stop-opacity="0"/></linearGradient>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="480" height="250" fill="#11141b"/>
+    <rect width="480" height="3" fill="#ff5d47"/>
+    <rect class="sheen" x="0" y="0" width="140" height="250" fill="url(#s)" transform="skewX(-12)"/>
+    <circle class="dot" cx="32" cy="40" r="4" fill="#ff5d47"/>
+    <text x="44" y="44.5" font-family='"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace' font-size="12" letter-spacing="1.6" fill="#ff5d47">DATA STORY</text>
+    <text x="452" y="45" text-anchor="end" font-family='"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace' font-size="16" fill="#969dab">&#8599;</text>
+    <text x="28" y="88" font-family='"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace' font-size="27" font-weight="700" fill="#eceee6">constitucion-viva</text>
+    <text x="28" y="124" font-family='Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif' font-size="14.5" fill="#b9bec8">Mexico&#x27;s 1917 Constitution, alive: 285 reform decrees</text><text x="28" y="146" font-family='Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif' font-size="14.5" fill="#b9bec8">article by article, word-level diffs and the citation</text><text x="28" y="168" font-family='Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif' font-size="14.5" fill="#b9bec8">web of 36 laws.</text>
+    <g transform="translate(28.0 198)"><rect width="36.4" height="24" rx="12" fill="none" stroke="#ff5d47" stroke-opacity=".45"/><text x="18.2" y="16" text-anchor="middle" font-family='"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace' font-size="11.5" fill="#eceee6">D3</text></g><g transform="translate(72.4 198)"><rect width="94.0" height="24" rx="12" fill="none" stroke="#ff5d47" stroke-opacity=".45"/><text x="47.0" y="16" text-anchor="middle" font-family='"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace' font-size="11.5" fill="#eceee6">TypeScript</text></g><g transform="translate(174.4 198)"><rect width="86.8" height="24" rx="12" fill="none" stroke="#ff5d47" stroke-opacity=".45"/><text x="43.4" y="16" text-anchor="middle" font-family='"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace' font-size="11.5" fill="#eceee6">Open data</text></g>
+  </g>
+  <rect x=".5" y=".5" width="479" height="249" rx="18" fill="none" stroke="#eceee6" stroke-opacity=".12"/>
+</svg>

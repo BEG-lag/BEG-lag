@@ -1,15 +1,28 @@
 [
   {
-    "slug": "mcp-dof",
-    "url": "https://github.com/BEG-lag/mcp-dof",
-    "kicker": "MCP server",
+    "slug": "reforma-al-dia",
+    "url": "https://github.com/BEG-lag/reforma-al-dia",
+    "kicker": "AI agent + human",
     "accent": "#cfff45",
-    "title": "mcp-dof",
-    "desc": "Lets Claude read Mexico's Official Gazette (DOF): any day's edition, the full text of every decree, title search and the daily FIX, UDIS and TIIE.",
+    "title": "reforma-al-dia",
+    "desc": "The morning the DOF publishes a reform, an AI agent applies it to the law and opens a PR for review. 90.7% of articles exact in 34 real decrees.",
     "tags": [
       "Python",
-      "FastMCP",
-      "uv"
+      "Claude",
+      "Audit"
+    ]
+  },
+  {
+    "slug": "constitucion-viva",
+    "url": "https://github.com/BEG-lag/constitucion-viva",
+    "kicker": "Data story",
+    "accent": "#ff5d47",
+    "title": "constitucion-viva",
+    "desc": "Mexico's 1917 Constitution, alive: 285 reform decrees article by article, word-level diffs and the citation web of 36 laws.",
+    "tags": [
+      "D3",
+      "TypeScript",
+      "Open data"
     ]
   },
   {
@@ -23,6 +36,32 @@
       "Python",
       "Git",
       "Actions"
+    ]
+  },
+  {
+    "slug": "mcp-leyes",
+    "url": "https://github.com/BEG-lag/mcp-leyes",
+    "kicker": "MCP server",
+    "accent": "#ffb648",
+    "title": "mcp-leyes",
+    "desc": "Lets Claude read Mexican federal law at any date: exact article text, reform history and word-level diffs over git.",
+    "tags": [
+      "Python",
+      "FastMCP",
+      "Git"
+    ]
+  },
+  {
+    "slug": "mcp-dof",
+    "url": "https://github.com/BEG-lag/mcp-dof",
+    "kicker": "MCP server",
+    "accent": "#cfff45",
+    "title": "mcp-dof",
+    "desc": "Lets Claude read Mexico's Official Gazette (DOF): any day's edition, the full text of every decree, title search and the daily FIX, UDIS and TIIE.",
+    "tags": [
+      "Python",
+      "FastMCP",
+      "uv"
     ]
   },
   {
@@ -52,6 +91,19 @@
     ]
   },
   {
+    "slug": "radar-energia",
+    "url": "https://github.com/BEG-lag/radar-energia",
+    "kicker": "Daily radar",
+    "accent": "#ffb648",
+    "title": "radar-energia",
+    "desc": "Mexico's energy sector every morning: DOF, CNE, SENER, ASEA and CENACE items, power and fuel prices, each with its source.",
+    "tags": [
+      "Python",
+      "Actions",
+      "RSS"
+    ]
+  },
+  {
     "slug": "hoy-circulo",
     "url": "https://github.com/BEG-lag/hoy-circulo",
     "kicker": "Everyday app",
@@ -62,6 +114,32 @@
       "TypeScript",
       "PWA",
       "Actions"
+    ]
+  },
+  {
+    "slug": "aumento-renta",
+    "url": "https://github.com/BEG-lag/aumento-renta",
+    "kicker": "Everyday app",
+    "accent": "#ff5d47",
+    "title": "aumento-renta",
+    "desc": "How much can your rent go up? Updates it with Mexico's INPC or UDIS, cites every official value and checks Mexico City's legal cap.",
+    "tags": [
+      "TypeScript",
+      "PWA",
+      "Actions"
+    ]
+  },
+  {
+    "slug": "pension-imss",
+    "url": "https://github.com/BEG-lag/pension-imss",
+    "kicker": "Legal calculator",
+    "accent": "#7fd8ff",
+    "title": "pension-imss",
+    "desc": "How much will my IMSS pension be? Ley 73 and Ley 97, every step with its article and the Supreme Court criteria.",
+    "tags": [
+      "TypeScript",
+      "Vitest",
+      "PWA"
     ]
   },
   {
@@ -78,16 +156,16 @@
     ]
   },
   {
-    "slug": "aumento-renta",
-    "url": "https://github.com/BEG-lag/aumento-renta",
-    "kicker": "Everyday app",
+    "slug": "mis-laboratorios",
+    "url": "https://github.com/BEG-lag/mis-laboratorios",
+    "kicker": "Private by design",
     "accent": "#ff5d47",
-    "title": "aumento-renta",
-    "desc": "How much can your rent go up? Updates it with Mexico's INPC or UDIS, cites every official value and checks Mexico City's legal cap.",
+    "title": "mis-laboratorios",
+    "desc": "Chart your lab results over the years against each lab's range, read from your PDFs in the browser. Nothing is uploaded.",
     "tags": [
-      "TypeScript",
-      "PWA",
-      "Actions"
+      "pdf.js",
+      "OCR",
+      "PWA"
     ]
   },
   {
