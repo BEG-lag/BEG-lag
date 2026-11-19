@@ -15,10 +15,10 @@ I'm a Mexican corporate lawyer (energy, hydrocarbons and mining, about eight yea
 
 <!-- today:start -->
 <p>
-  <a href="https://dof.gob.mx/nota_detalle.php?codigo=5804097&amp;fecha=18/11/2026"><img src="assets/today.svg" width="100%" alt="Mexico&#x27;s Official Gazette, Wednesday, November 18, 2026: Decreto por el que se reforman y adicionan diversos artículos del Decreto por el que se crea el organismo descentralizado denominado Financiera para el Bienestar, antes Telégrafos Nacionales. FIX 18.4677, UDI 8.916217."></a>
+  <a href="https://dof.gob.mx/nota_detalle.php?codigo=5804310&amp;fecha=19/11/2026"><img src="assets/today.svg" width="100%" alt="Mexico&#x27;s Official Gazette, Thursday, November 19, 2026: Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Inversión Extranjera. FIX 18.6723, UDI 8.918538."></a>
 </p>
 
-<sub>DOF, Wednesday, November 18, 2026: <a href="https://dof.gob.mx/nota_detalle.php?codigo=5804097&amp;fecha=18/11/2026">Decreto por el que se reforman y adicionan diversos artículos del Decreto por el que se crea el organismo descentralizado denominado…</a> · 82 notes · FIX 18.4677 · UDI 8.916217 · <a href="https://beg-lag.github.io/dof-diario/">search the archive</a> · <a href="https://github.com/BEG-lag/BEG-lag/blob/main/.github/workflows/today.yml">refreshed every morning</a></sub>
+<sub>DOF, Thursday, November 19, 2026: <a href="https://dof.gob.mx/nota_detalle.php?codigo=5804310&amp;fecha=19/11/2026">Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Inversión Extranjera.</a> · 143 notes · FIX 18.6723 · UDI 8.918538 · <a href="https://beg-lag.github.io/dof-diario/">search the archive</a> · <a href="https://github.com/BEG-lag/BEG-lag/blob/main/.github/workflows/today.yml">refreshed every morning</a></sub>
 <!-- today:end -->
 
 ## Law, compiled
