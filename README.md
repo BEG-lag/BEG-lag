@@ -15,10 +15,10 @@ I'm a Mexican corporate lawyer (energy, hydrocarbons and mining, about eight yea
 
 <!-- today:start -->
 <p>
-  <a href="https://dof.gob.mx/nota_detalle.php?codigo=5804310&amp;fecha=19/11/2026"><img src="assets/today.svg" width="100%" alt="Mexico&#x27;s Official Gazette, Thursday, November 19, 2026: Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Inversión Extranjera. FIX 18.6723, UDI 8.918538."></a>
+  <a href="https://dof.gob.mx/nota_detalle.php?codigo=5804497&amp;fecha=20/11/2026"><img src="assets/today.svg" width="100%" alt="Mexico&#x27;s Official Gazette, Friday, November 20, 2026: Decreto por el que se expide el Reglamento de la Ley Federal de Armas de Fuego y Explosivos. FIX 19.0270, UDI 8.920859."></a>
 </p>
 
-<sub>DOF, Thursday, November 19, 2026: <a href="https://dof.gob.mx/nota_detalle.php?codigo=5804310&amp;fecha=19/11/2026">Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Inversión Extranjera.</a> · 143 notes · FIX 18.6723 · UDI 8.918538 · <a href="https://beg-lag.github.io/dof-diario/">search the archive</a> · <a href="https://github.com/BEG-lag/BEG-lag/blob/main/.github/workflows/today.yml">refreshed every morning</a></sub>
+<sub>DOF, Friday, November 20, 2026: <a href="https://dof.gob.mx/nota_detalle.php?codigo=5804497&amp;fecha=20/11/2026">Decreto por el que se expide el Reglamento de la Ley Federal de Armas de Fuego y Explosivos.</a> · 28 notes · FIX 19.0270 · UDI 8.920859 · <a href="https://beg-lag.github.io/dof-diario/">search the archive</a> · <a href="https://github.com/BEG-lag/BEG-lag/blob/main/.github/workflows/today.yml">refreshed every morning</a></sub>
 <!-- today:end -->
 
 ## Law, compiled
