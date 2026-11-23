@@ -78,6 +78,19 @@
     ]
   },
   {
+    "slug": "modelos-al-dia",
+    "url": "https://github.com/BEG-lag/modelos-al-dia",
+    "kicker": "AI tracker",
+    "accent": "#cfff45",
+    "title": "modelos-al-dia",
+    "desc": "ChatGPT, Claude, Gemini and Grok compared and kept current: models, API prices, app plans, 12 coding agents and official release notes.",
+    "tags": [
+      "Python",
+      "Actions",
+      "Claude"
+    ]
+  },
+  {
     "slug": "indicadores-mx",
     "url": "https://github.com/BEG-lag/indicadores-mx",
     "kicker": "Free static API",

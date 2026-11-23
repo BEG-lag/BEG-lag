@@ -41,11 +41,12 @@ Public records turned into living datasets, APIs and visual stories.
 <p>
   <a href="https://github.com/BEG-lag/constitucion-viva"><img src="assets/cards/constitucion-viva.svg" width="49%" alt="constitucion-viva: interactive history of Mexico's Constitution"></a>
   <a href="https://github.com/BEG-lag/radar-energia"><img src="assets/cards/radar-energia.svg" width="49%" alt="radar-energia: daily radar of Mexico's energy sector"></a>
+  <a href="https://github.com/BEG-lag/modelos-al-dia"><img src="assets/cards/modelos-al-dia.svg" width="49%" alt="modelos-al-dia: ChatGPT, Claude, Gemini and Grok compared and kept current"></a>
   <a href="https://github.com/BEG-lag/indicadores-mx"><img src="assets/cards/indicadores-mx.svg" width="49%" alt="indicadores-mx: Mexico's official indicators as a free static API"></a>
   <a href="https://github.com/BEG-lag/dof-diario"><img src="assets/cards/dof-diario.svg" width="49%" alt="dof-diario: daily archive of the Official Gazette"></a>
 </p>
 
-**Try it:** [Constitution time machine](https://beg-lag.github.io/constitucion-viva/) · [indicators API](https://beg-lag.github.io/indicadores-mx/) · [energy radar](https://beg-lag.github.io/radar-energia/) · [DOF archive search](https://beg-lag.github.io/dof-diario/)
+**Try it:** [Constitution time machine](https://beg-lag.github.io/constitucion-viva/) · [indicators API](https://beg-lag.github.io/indicadores-mx/) · [energy radar](https://beg-lag.github.io/radar-energia/) · [AI models compared](https://beg-lag.github.io/modelos-al-dia/) · [DOF archive search](https://beg-lag.github.io/dof-diario/)
 
 ## Everyday tools
 
