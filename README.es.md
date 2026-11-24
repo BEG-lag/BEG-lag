@@ -15,10 +15,10 @@ Soy abogado corporativo mexicano (energía, hidrocarburos y minería, unos ocho 
 
 <!-- today:start -->
 <p>
-  <a href="https://dof.gob.mx/nota_detalle.php?codigo=5804497&amp;fecha=20/11/2026"><img src="assets/today.svg" width="100%" alt="Última edición del DOF, viernes 20 de noviembre de 2026: Decreto por el que se expide el Reglamento de la Ley Federal de Armas de Fuego y Explosivos. FIX 19.0270, UDI 8.923181."></a>
+  <a href="https://dof.gob.mx/nota_detalle.php?codigo=5804597&amp;fecha=23/11/2026"><img src="assets/today.svg" width="100%" alt="DOF del lunes 23 de noviembre de 2026: Acuerdo por el que se establecen acciones de simplificación y mejora administrativa respecto de los trámites que se indican y que se realizan ante la Dirección General del Registro Nacional de Población e Identidad de… FIX 19.0228, UDI 8.927827."></a>
 </p>
 
-<sub>Última edición del DOF, viernes 20 de noviembre de 2026: <a href="https://dof.gob.mx/nota_detalle.php?codigo=5804497&amp;fecha=20/11/2026">Decreto por el que se expide el Reglamento de la Ley Federal de Armas de Fuego y Explosivos.</a> · 31 notas · FIX 19.0270 · UDI 8.923181 · <a href="https://beg-lag.github.io/dof-diario/">busca en el archivo</a> · <a href="https://github.com/BEG-lag/BEG-lag/blob/main/.github/workflows/today.yml">se actualiza cada mañana</a></sub>
+<sub>DOF del lunes 23 de noviembre de 2026: <a href="https://dof.gob.mx/nota_detalle.php?codigo=5804597&amp;fecha=23/11/2026">Acuerdo por el que se establecen acciones de simplificación y mejora administrativa respecto de los trámites que se indican y que se…</a> · 69 notas · FIX 19.0228 · UDI 8.927827 · <a href="https://beg-lag.github.io/dof-diario/">busca en el archivo</a> · <a href="https://github.com/BEG-lag/BEG-lag/blob/main/.github/workflows/today.yml">se actualiza cada mañana</a></sub>
 <!-- today:end -->
 
 ## Derecho, compilado
