@@ -15,10 +15,10 @@ I'm a Mexican corporate lawyer (energy, hydrocarbons and mining, about eight yea
 
 <!-- today:start -->
 <p>
-  <a href="https://dof.gob.mx/nota_detalle.php?codigo=5804597&amp;fecha=23/11/2026"><img src="assets/today.svg" width="100%" alt="Mexico&#x27;s Official Gazette, Monday, November 23, 2026: Acuerdo por el que se establecen acciones de simplificación y mejora administrativa respecto de los trámites que se indican y que se realizan ante la Dirección General del Registro Nacional de Población e Identidad de… FIX 19.0228, UDI 8.927827."></a>
+  <a href="https://dof.gob.mx/nota_detalle.php?codigo=5804786&amp;fecha=24/11/2026"><img src="assets/today.svg" width="100%" alt="Mexico&#x27;s Official Gazette, Tuesday, November 24, 2026: Acuerdo por el que se determinan los días que se considerarán como inhábiles para efectos de los actos y procedimientos administrativos que se tramiten o deban tramitarse ante la Comisión Nacional Bancaria y de Valores… FIX 19.1648, UDI 8.930151."></a>
 </p>
 
-<sub>DOF, Monday, November 23, 2026: <a href="https://dof.gob.mx/nota_detalle.php?codigo=5804597&amp;fecha=23/11/2026">Acuerdo por el que se establecen acciones de simplificación y mejora administrativa respecto de los trámites que se indican y que se…</a> · 69 notes · FIX 19.0228 · UDI 8.927827 · <a href="https://beg-lag.github.io/dof-diario/">search the archive</a> · <a href="https://github.com/BEG-lag/BEG-lag/blob/main/.github/workflows/today.yml">refreshed every morning</a></sub>
+<sub>DOF, Tuesday, November 24, 2026: <a href="https://dof.gob.mx/nota_detalle.php?codigo=5804786&amp;fecha=24/11/2026">Acuerdo por el que se determinan los días que se considerarán como inhábiles para efectos de los actos y procedimientos administrativos…</a> · 209 notes · FIX 19.1648 · UDI 8.930151 · <a href="https://beg-lag.github.io/dof-diario/">search the archive</a> · <a href="https://github.com/BEG-lag/BEG-lag/blob/main/.github/workflows/today.yml">refreshed every morning</a></sub>
 <!-- today:end -->
 
 ## Law, compiled

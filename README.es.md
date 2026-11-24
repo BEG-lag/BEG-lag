@@ -15,10 +15,10 @@ Soy abogado corporativo mexicano (energía, hidrocarburos y minería, unos ocho 
 
 <!-- today:start -->
 <p>
-  <a href="https://dof.gob.mx/nota_detalle.php?codigo=5804597&amp;fecha=23/11/2026"><img src="assets/today.svg" width="100%" alt="DOF del lunes 23 de noviembre de 2026: Acuerdo por el que se establecen acciones de simplificación y mejora administrativa respecto de los trámites que se indican y que se realizan ante la Dirección General del Registro Nacional de Población e Identidad de… FIX 19.0228, UDI 8.927827."></a>
+  <a href="https://dof.gob.mx/nota_detalle.php?codigo=5804786&amp;fecha=24/11/2026"><img src="assets/today.svg" width="100%" alt="DOF del martes 24 de noviembre de 2026: Acuerdo por el que se determinan los días que se considerarán como inhábiles para efectos de los actos y procedimientos administrativos que se tramiten o deban tramitarse ante la Comisión Nacional Bancaria y de Valores… FIX 19.1648, UDI 8.930151."></a>
 </p>
 
-<sub>DOF del lunes 23 de noviembre de 2026: <a href="https://dof.gob.mx/nota_detalle.php?codigo=5804597&amp;fecha=23/11/2026">Acuerdo por el que se establecen acciones de simplificación y mejora administrativa respecto de los trámites que se indican y que se…</a> · 69 notas · FIX 19.0228 · UDI 8.927827 · <a href="https://beg-lag.github.io/dof-diario/">busca en el archivo</a> · <a href="https://github.com/BEG-lag/BEG-lag/blob/main/.github/workflows/today.yml">se actualiza cada mañana</a></sub>
+<sub>DOF del martes 24 de noviembre de 2026: <a href="https://dof.gob.mx/nota_detalle.php?codigo=5804786&amp;fecha=24/11/2026">Acuerdo por el que se determinan los días que se considerarán como inhábiles para efectos de los actos y procedimientos administrativos…</a> · 209 notas · FIX 19.1648 · UDI 8.930151 · <a href="https://beg-lag.github.io/dof-diario/">busca en el archivo</a> · <a href="https://github.com/BEG-lag/BEG-lag/blob/main/.github/workflows/today.yml">se actualiza cada mañana</a></sub>
 <!-- today:end -->
 
 ## Derecho, compilado
