@@ -52,6 +52,19 @@
     ]
   },
   {
+    "slug": "ley-energia-mx",
+    "url": "https://github.com/BEG-lag/ley-energia-mx",
+    "kicker": "MCP server + RAG",
+    "accent": "#7fd8ff",
+    "title": "ley-energia-mx",
+    "desc": "Mexico's energy regulation by article, with validity and lineage: 2025 laws, regulations and CNE rules. Claude cites it over MCP, no API keys.",
+    "tags": [
+      "Python",
+      "SQLite",
+      "MCP"
+    ]
+  },
+  {
     "slug": "constitucion-viva",
     "url": "https://github.com/BEG-lag/constitucion-viva",
     "kicker": "Data story",

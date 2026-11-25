@@ -34,9 +34,10 @@ Open-source tools that read, apply and audit Mexican law.
   <a href="https://github.com/BEG-lag/leyes-mx"><img src="assets/cards/leyes-mx.svg" width="49%" alt="leyes-mx: Mexican federal statutes as versioned Markdown"></a>
   <a href="https://github.com/BEG-lag/mcp-leyes"><img src="assets/cards/mcp-leyes.svg" width="49%" alt="mcp-leyes: point-in-time Mexican law for Claude"></a>
   <a href="https://github.com/BEG-lag/mcp-dof"><img src="assets/cards/mcp-dof.svg" width="49%" alt="mcp-dof: MCP server for Mexico's Official Gazette"></a>
+  <a href="https://github.com/BEG-lag/ley-energia-mx"><img src="assets/cards/ley-energia-mx.svg" width="49%" alt="ley-energia-mx: Mexico's energy regulation by article, for Claude over MCP"></a>
 </p>
 
-**Try it:** [AI reform scoreboard](https://beg-lag.github.io/reforma-al-dia/) · [federal laws](https://beg-lag.github.io/leyes-mx/)
+**Try it:** [AI reform scoreboard](https://beg-lag.github.io/reforma-al-dia/) · [federal laws](https://beg-lag.github.io/leyes-mx/) · [energy regulation by article](https://beg-lag.github.io/ley-energia-mx/)
 
 ## Open data
 
@@ -81,7 +82,6 @@ How I work, packaged for anyone.
 | | |
 |:--|:--|
 | **[Con Criterio](https://concriterio.mx)** | An AI toolkit for Mexican lawyers: a guide, 7 Claude Code plugins by practice area and 7 drafting skills, grounded on a curated corpus of statutes and verified court criteria. On sale since November 2026, with payments, automated delivery and 101 automated tests. |
-| **Energy-law RAG** | Retrieval over 374 Mexican energy-law instruments split into 11,112 chunks along the hierarchy of the statutes, with hybrid search and a regression test set. |
 | **SupplySense** | A data pipeline over more than 560,000 public procurement contracts that shows oil and gas suppliers where the money goes. |
 | **Four websites** | [concriterio.mx](https://concriterio.mx), [pivotek.mx](https://pivotek.mx), [casalegado.mx](https://casalegado.mx) and [carocomunicando.com](https://carocomunicando.com). |
 

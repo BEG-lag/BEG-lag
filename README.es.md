@@ -34,9 +34,10 @@ Herramientas abiertas que leen, aplican y auditan el derecho mexicano.
   <a href="https://github.com/BEG-lag/leyes-mx"><img src="assets/cards/leyes-mx.svg" width="49%" alt="leyes-mx: leyes federales en Markdown versionado"></a>
   <a href="https://github.com/BEG-lag/mcp-leyes"><img src="assets/cards/mcp-leyes.svg" width="49%" alt="mcp-leyes: la ley mexicana en cualquier fecha para Claude"></a>
   <a href="https://github.com/BEG-lag/mcp-dof"><img src="assets/cards/mcp-dof.svg" width="49%" alt="mcp-dof: servidor MCP del Diario Oficial de la Federación"></a>
+  <a href="https://github.com/BEG-lag/ley-energia-mx"><img src="assets/cards/ley-energia-mx.svg" width="49%" alt="ley-energia-mx: la regulación energética de México por artículo, para Claude por MCP"></a>
 </p>
 
-**Pruébalas:** [marcador de reformas aplicadas por IA](https://beg-lag.github.io/reforma-al-dia/) · [leyes federales](https://beg-lag.github.io/leyes-mx/)
+**Pruébalas:** [marcador de reformas aplicadas por IA](https://beg-lag.github.io/reforma-al-dia/) · [leyes federales](https://beg-lag.github.io/leyes-mx/) · [regulación energética por artículo](https://beg-lag.github.io/ley-energia-mx/)
 
 ## Datos abiertos
 
@@ -81,7 +82,6 @@ Mi forma de trabajar, empaquetada para cualquiera.
 | | |
 |:--|:--|
 | **[Con Criterio](https://concriterio.mx)** | Kit de IA para abogados en México: guía, 7 plugins de Claude Code por área de práctica y 7 skills de redacción, sobre un corpus curado de leyes y criterios judiciales verificados. A la venta desde noviembre de 2026, con cobro, entrega automática y 101 pruebas automatizadas. |
-| **RAG de derecho energético** | Búsqueda sobre 374 instrumentos de derecho energético mexicano, divididos en 11,112 fragmentos según la jerarquía de las leyes, con búsqueda híbrida y un juego de pruebas de regresión. |
 | **SupplySense** | Pipeline de datos sobre más de 560,000 contratos públicos que muestra a proveedores de petróleo y gas a dónde va el dinero. |
 | **Cuatro sitios web** | [concriterio.mx](https://concriterio.mx), [pivotek.mx](https://pivotek.mx), [casalegado.mx](https://casalegado.mx) y [carocomunicando.com](https://carocomunicando.com). |
 
