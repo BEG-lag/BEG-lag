@@ -91,6 +91,19 @@
     ]
   },
   {
+    "slug": "supplysense",
+    "url": "https://github.com/BEG-lag/SupplySense",
+    "kicker": "Daily pipeline",
+    "accent": "#ffb648",
+    "title": "SupplySense",
+    "desc": "Open energy tenders from ComprasMX, CFE, PEMEX and three states, next to what was already paid: 300,000+ awards, each linked to its source.",
+    "tags": [
+      "Python",
+      "DuckDB",
+      "Actions"
+    ]
+  },
+  {
     "slug": "modelos-al-dia",
     "url": "https://github.com/BEG-lag/modelos-al-dia",
     "kicker": "AI tracker",

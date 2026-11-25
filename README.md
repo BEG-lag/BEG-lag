@@ -46,12 +46,13 @@ Public records turned into living datasets, APIs and visual stories.
 <p>
   <a href="https://github.com/BEG-lag/constitucion-viva"><img src="assets/cards/constitucion-viva.svg" width="49%" alt="constitucion-viva: interactive history of Mexico's Constitution"></a>
   <a href="https://github.com/BEG-lag/radar-energia"><img src="assets/cards/radar-energia.svg" width="49%" alt="radar-energia: daily radar of Mexico's energy sector"></a>
+  <a href="https://github.com/BEG-lag/SupplySense"><img src="assets/cards/supplysense.svg" width="49%" alt="SupplySense: open energy tenders next to what was already paid"></a>
   <a href="https://github.com/BEG-lag/modelos-al-dia"><img src="assets/cards/modelos-al-dia.svg" width="49%" alt="modelos-al-dia: ChatGPT, Claude, Gemini and Grok compared and kept current"></a>
   <a href="https://github.com/BEG-lag/indicadores-mx"><img src="assets/cards/indicadores-mx.svg" width="49%" alt="indicadores-mx: Mexico's official indicators as a free static API"></a>
   <a href="https://github.com/BEG-lag/dof-diario"><img src="assets/cards/dof-diario.svg" width="49%" alt="dof-diario: daily archive of the Official Gazette"></a>
 </p>
 
-**Try it:** [Constitution time machine](https://beg-lag.github.io/constitucion-viva/) · [indicators API](https://beg-lag.github.io/indicadores-mx/) · [energy radar](https://beg-lag.github.io/radar-energia/) · [AI models compared](https://beg-lag.github.io/modelos-al-dia/) · [DOF archive search](https://beg-lag.github.io/dof-diario/)
+**Try it:** [Constitution time machine](https://beg-lag.github.io/constitucion-viva/) · [indicators API](https://beg-lag.github.io/indicadores-mx/) · [energy radar](https://beg-lag.github.io/radar-energia/) · [energy tenders](https://beg-lag.github.io/SupplySense/) · [AI models compared](https://beg-lag.github.io/modelos-al-dia/) · [DOF archive search](https://beg-lag.github.io/dof-diario/)
 
 ## Everyday tools
 
@@ -82,7 +83,6 @@ How I work, packaged for anyone.
 | | |
 |:--|:--|
 | **[Con Criterio](https://concriterio.mx)** | An AI toolkit for Mexican lawyers: a guide, 7 Claude Code plugins by practice area and 7 drafting skills, grounded on a curated corpus of statutes and verified court criteria. On sale since November 2026, with payments, automated delivery and 101 automated tests. |
-| **SupplySense** | A data pipeline over more than 560,000 public procurement contracts that shows oil and gas suppliers where the money goes. |
 | **Four websites** | [concriterio.mx](https://concriterio.mx), [pivotek.mx](https://pivotek.mx), [casalegado.mx](https://casalegado.mx) and [carocomunicando.com](https://carocomunicando.com). |
 
 The full story, with diagrams and anonymized client work, is in the [portfolio](https://github.com/BEG-lag/portafolio-ia) and at [pivotek.mx](https://pivotek.mx).

@@ -46,12 +46,13 @@ Registros públicos convertidos en datos vivos, APIs e historias visuales.
 <p>
   <a href="https://github.com/BEG-lag/constitucion-viva"><img src="assets/cards/constitucion-viva.svg" width="49%" alt="constitucion-viva: historia interactiva de la Constitución"></a>
   <a href="https://github.com/BEG-lag/radar-energia"><img src="assets/cards/radar-energia.svg" width="49%" alt="radar-energia: radar diario del sector energético"></a>
+  <a href="https://github.com/BEG-lag/SupplySense"><img src="assets/cards/supplysense.svg" width="49%" alt="SupplySense: licitaciones de energía abiertas junto a lo que ya se pagó"></a>
   <a href="https://github.com/BEG-lag/modelos-al-dia"><img src="assets/cards/modelos-al-dia.svg" width="49%" alt="modelos-al-dia: ChatGPT, Claude, Gemini y Grok comparados y al día"></a>
   <a href="https://github.com/BEG-lag/indicadores-mx"><img src="assets/cards/indicadores-mx.svg" width="49%" alt="indicadores-mx: indicadores oficiales de México como API gratuita"></a>
   <a href="https://github.com/BEG-lag/dof-diario"><img src="assets/cards/dof-diario.svg" width="49%" alt="dof-diario: archivo diario del Diario Oficial"></a>
 </p>
 
-**Pruébalas:** [máquina del tiempo de la Constitución](https://beg-lag.github.io/constitucion-viva/) · [API de indicadores](https://beg-lag.github.io/indicadores-mx/) · [radar energético](https://beg-lag.github.io/radar-energia/) · [modelos de IA comparados](https://beg-lag.github.io/modelos-al-dia/) · [buscador del DOF](https://beg-lag.github.io/dof-diario/)
+**Pruébalas:** [máquina del tiempo de la Constitución](https://beg-lag.github.io/constitucion-viva/) · [API de indicadores](https://beg-lag.github.io/indicadores-mx/) · [radar energético](https://beg-lag.github.io/radar-energia/) · [licitaciones de energía](https://beg-lag.github.io/SupplySense/) · [modelos de IA comparados](https://beg-lag.github.io/modelos-al-dia/) · [buscador del DOF](https://beg-lag.github.io/dof-diario/)
 
 ## Para el día a día
 
@@ -82,7 +83,6 @@ Mi forma de trabajar, empaquetada para cualquiera.
 | | |
 |:--|:--|
 | **[Con Criterio](https://concriterio.mx)** | Kit de IA para abogados en México: guía, 7 plugins de Claude Code por área de práctica y 7 skills de redacción, sobre un corpus curado de leyes y criterios judiciales verificados. A la venta desde noviembre de 2026, con cobro, entrega automática y 101 pruebas automatizadas. |
-| **SupplySense** | Pipeline de datos sobre más de 560,000 contratos públicos que muestra a proveedores de petróleo y gas a dónde va el dinero. |
 | **Cuatro sitios web** | [concriterio.mx](https://concriterio.mx), [pivotek.mx](https://pivotek.mx), [casalegado.mx](https://casalegado.mx) y [carocomunicando.com](https://carocomunicando.com). |
 
 La historia completa, con diagramas y trabajo de clientes anonimizado, está en el [portafolio](https://github.com/BEG-lag/portafolio-ia/blob/main/README.es.md) y en [pivotek.mx](https://pivotek.mx).
