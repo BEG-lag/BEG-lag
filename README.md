@@ -1,4 +1,8 @@
 <p align="center">
+  <a href="https://pivotek.mx"><img src="assets/pivotek-logo.svg" alt="PIVOTEK" width="200"></a>
+</p>
+
+<p align="center">
   <a href="https://pivotek.mx"><img src="assets/hero.svg" width="100%" alt="Benjamín Esponda García. Corporate lawyer, energy and infrastructure, Mexico City. Law, compiled."></a>
 </p>
 
