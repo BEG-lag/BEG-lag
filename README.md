@@ -19,10 +19,10 @@ I'm a Mexican corporate lawyer (energy, hydrocarbons and mining, about eight yea
 
 <!-- today:start -->
 <p>
-  <a href="https://dof.gob.mx/nota_detalle.php?codigo=5805253&amp;fecha=25/11/2026"><img src="assets/today.svg" width="100%" alt="Mexico&#x27;s Official Gazette, Wednesday, November 25, 2026: Norma Oficial Mexicana NOM-023-ASEA-2026, Estaciones de Servicio con fin Específico para Expendio al Público de gasolinas y/o diésel para Vehículos Automotores (cancela a la NOM-005-ASEA-2016, Diseño, construcción… FIX 19.3668, UDI 8.932476."></a>
+  <a href="https://dof.gob.mx/nota_detalle.php?codigo=5805386&amp;fecha=26/11/2026"><img src="assets/today.svg" width="100%" alt="Mexico&#x27;s Official Gazette, Thursday, November 26, 2026: Sentencia dictada en el juicio agrario 50/99, relativo a la solicitud de dotación de tierras, promovida por un grupo de campesinos del poblado Plan de Méndez, Municipio de Cuautitlán, Jal. FIX 19.7040, UDI 8.935690."></a>
 </p>
 
-<sub>DOF, Wednesday, November 25, 2026: <a href="https://dof.gob.mx/nota_detalle.php?codigo=5805253&amp;fecha=25/11/2026">Norma Oficial Mexicana NOM-023-ASEA-2026, Estaciones de Servicio con fin Específico para Expendio al Público de gasolinas y/o diésel para…</a> · 80 notes · FIX 19.3668 · UDI 8.932476 · <a href="https://beg-lag.github.io/dof-diario/">search the archive</a> · <a href="https://github.com/BEG-lag/BEG-lag/blob/main/.github/workflows/today.yml">refreshed every morning</a></sub>
+<sub>DOF, Thursday, November 26, 2026: <a href="https://dof.gob.mx/nota_detalle.php?codigo=5805386&amp;fecha=26/11/2026">Sentencia dictada en el juicio agrario 50/99, relativo a la solicitud de dotación de tierras, promovida por un grupo de campesinos del…</a> · 135 notes · FIX 19.7040 · UDI 8.935690 · <a href="https://beg-lag.github.io/dof-diario/">search the archive</a> · <a href="https://github.com/BEG-lag/BEG-lag/blob/main/.github/workflows/today.yml">refreshed every morning</a></sub>
 <!-- today:end -->
 
 ## Law, compiled
