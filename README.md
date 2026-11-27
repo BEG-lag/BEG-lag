@@ -19,10 +19,10 @@ I'm a Mexican corporate lawyer (energy, hydrocarbons and mining, about eight yea
 
 <!-- today:start -->
 <p>
-  <a href="https://dof.gob.mx/nota_detalle.php?codigo=5805386&amp;fecha=26/11/2026"><img src="assets/today.svg" width="100%" alt="Mexico&#x27;s Official Gazette, Thursday, November 26, 2026: Sentencia dictada en el juicio agrario 50/99, relativo a la solicitud de dotación de tierras, promovida por un grupo de campesinos del poblado Plan de Méndez, Municipio de Cuautitlán, Jal. FIX 19.7040, UDI 8.935690."></a>
+  <a href="https://dof.gob.mx/nota_detalle.php?codigo=5805518&amp;fecha=27/11/2026"><img src="assets/today.svg" width="100%" alt="Mexico&#x27;s Official Gazette, Friday, November 27, 2026: Decreto por el que se formula la Declaratoria de las Zonas de Atención Prioritaria para el año 2027. FIX 19.7203, UDI 8.938905."></a>
 </p>
 
-<sub>DOF, Thursday, November 26, 2026: <a href="https://dof.gob.mx/nota_detalle.php?codigo=5805386&amp;fecha=26/11/2026">Sentencia dictada en el juicio agrario 50/99, relativo a la solicitud de dotación de tierras, promovida por un grupo de campesinos del…</a> · 135 notes · FIX 19.7040 · UDI 8.935690 · <a href="https://beg-lag.github.io/dof-diario/">search the archive</a> · <a href="https://github.com/BEG-lag/BEG-lag/blob/main/.github/workflows/today.yml">refreshed every morning</a></sub>
+<sub>DOF, Friday, November 27, 2026: <a href="https://dof.gob.mx/nota_detalle.php?codigo=5805518&amp;fecha=27/11/2026">Decreto por el que se formula la Declaratoria de las Zonas de Atención Prioritaria para el año 2027.</a> · 78 notes · FIX 19.7203 · UDI 8.938905 · <a href="https://beg-lag.github.io/dof-diario/">search the archive</a> · <a href="https://github.com/BEG-lag/BEG-lag/blob/main/.github/workflows/today.yml">refreshed every morning</a></sub>
 <!-- today:end -->
 
 ## Law, compiled
